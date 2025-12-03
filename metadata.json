@@ -1,0 +1,5 @@
+{
+  "name": "Football Manager",
+  "description": "A comprehensive AI-powered football league simulator. Manage teams, simulate matches with realistic outcomes, and get AI-generated match commentary and press reports.",
+  "requestFramePermissions": []
+}
