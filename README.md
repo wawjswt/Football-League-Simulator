@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200"  alt="GHBanner" src="./asset/image.png" />
+<img width="1200"  alt="GHBanner" src="./assets/image.png" />
 </div>
 
 # Gemini Football Manager
@@ -26,6 +26,8 @@ The application is designed to build narrative tension and engagement through th
 *   The "Momentum" accelerates as the round counter approaches the limit.
 *   **Grand Finale:** At the end of Round 14, the simulation engine locks. A **Champion Celebration Modal** takes over the screen, utilizing particle effects (fireworks/confetti) and dynamic UI to crown the winner.
 *   **Final State:** The app transitions to a "Season Completed" state, allowing the user to review the final Table, the Golden Boot (Top Scorer) race, and the Assist Leaders in retrospect.
+
+<img width="600"  alt="GHBanner" src="./assets/champion.png" />
 
 ---
 
